@@ -1,0 +1,6 @@
+streamlit
+img2pdf
+pytesseract
+Pillow
+PyPDF2
+pdf2docx
